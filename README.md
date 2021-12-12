@@ -1,2 +1,2 @@
-# MercadoLibre
-The ability to predict search traffic can translate into the ability to successfully trade.
+# MercadoLibre Worksheet
+Demonstrating ability to analyze and predict search traffic using Google Colab and Prophet.
